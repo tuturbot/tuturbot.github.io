@@ -1,0 +1,46 @@
+h1 {
+	color: red;
+	font-size: 27px
+}
+h2 {color: purple;
+	font-size: 17px
+}
+
+.first-paragraph {
+	background-color: orange;
+	text-align: center;
+	margin: 75px;
+	padding: 75px;
+	border: solid 10px #687B85;
+	border-radius: 10px;
+	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+body {
+	background-color: orange;
+}
+h1 {font-family: 'Stardos Stencil', cursive;}
+p {
+	font-size: 17px
+}
+img {
+	width: 700px;
+
+}
+#logo { 
+	width: 100px;
+}
+.network {
+	width: 100px
+}
+.icon-network {
+	font-size: 70px ;
+	color: red; 
+	text-decoration: none;
+}
+.container-fluid {
+	background: orange;
+}
+
+.element1 {
+	margin: 2px 5px 2em 0; 
+}
